@@ -1,5 +1,5 @@
->Team Manager
-
+>Team Manager Discord Bot (JDA)
+__________________________________
 **Team Manager is a Discord Bot to allow you to manage a gaming team or staff team!
 it relies on USER ID's instead of Roles!**
 
