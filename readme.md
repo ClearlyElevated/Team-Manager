@@ -14,3 +14,5 @@ it relies on USER ID's instead of Roles!**
 <a href="https://discordbots.org/bot/598431937035763713" >
   <img src="https://discordbots.org/api/widget/lib/598431937035763713.svg" alt="Team Manager" />
 </a>
+
+![Discord Banner 3](https://discordapp.com/api/guilds/[543838348062621760]/widget.png?style=banner3)
